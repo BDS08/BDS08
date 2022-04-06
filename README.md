@@ -1,3 +1,4 @@
+![git](https://user-images.githubusercontent.com/76803084/161974228-6f9e78c9-fd66-4bec-8728-ebb89642b9e5.png)
 <h1 align="center">Hi 👋, I'm Badal Kumar Singh</h1>
 <h3 align="center">A passionate Frontend developer, UX/UI Designer and Coding Enthusiast from India</h3>
 
