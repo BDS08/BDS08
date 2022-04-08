@@ -5,6 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bds08&label=Profile%20views&color=0e75b6&style=flat" alt="bds08" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 - 🔭 I’m currently working on [Web Dev Project](https://github.com/BDS08/JavaScript_Projects)
 
